@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Add your customizations here -->
+        <item name="android:textColor">#e6e4e8</item> <!-- Change the font color -->
+        <item name="android:typeface">monospace</item> <!-- Change the font design -->
+    </style>
+
+</resources>

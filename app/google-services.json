@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829031720130",
+    "project_id": "cryptable-9282d",
+    "storage_bucket": "cryptable-9282d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829031720130:android:92c25c7f5bd80f7a25c75b",
+        "android_client_info": {
+          "package_name": "com.example.cryptable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829031720130-ph6pc71k2vjl4a1d5p9r90r9tiabhtsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0UJo7H7ksdsMQ4N2h3Ah19V3-6thJBb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829031720130-ph6pc71k2vjl4a1d5p9r90r9tiabhtsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
